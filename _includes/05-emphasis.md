@@ -1,3 +1,2 @@
 printf (italic)  c programmimg
-_italic
-**bold
+**bold_italic
