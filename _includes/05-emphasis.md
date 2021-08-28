@@ -1,2 +1,1 @@
-printf (italic)  c programmimg
-**bold_italic
+_You **can** combine them_
